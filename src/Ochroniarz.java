@@ -17,7 +17,7 @@ public class Ochroniarz {
         if(zwiazek){
             zwiazek2="w związku";
         }else {
-            zwiazek2="samotny";
+            zwiazek2="nie w związku";
         }
         System.out.println(imie.toUpperCase());
         System.out.println(nazwisko.toUpperCase());
